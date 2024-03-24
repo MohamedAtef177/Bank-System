@@ -208,18 +208,18 @@
 ![AccountCusomerDims](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture5.PNG)
 
 ![TransactionDims](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture3.PNG)
+![FactTransaction](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture1.PNG)
+![FactTransaction](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture2.PNG)
 
 
 
-# Secound Cube "The cube is Genarlized About Business and Specified for the CEO And CMO Should closely track financial performance, set clear goals, and analyse key metrics to measure profits. they must identify and manage risks by conducting assessments and creating strategies to mitigate potential threats."
+# Secound Cube "The cube is Genarlized About Business and Specified for the CEO And CMO Should closely track financial performance, set clear goals, and analyze key metrics to measure profits. they must identify and manage risks by conducting assessments and creating strategies to mitigate potential threats."
 
-![Cube](https://github.com/Ahmedelbermawy/Bank_system_graduation_project/assets/133806022/a5d9acd4-638b-406b-bdcb-d48097e89a08)
+![Cube](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/WhatsApp%20Image%202024-03-14%20at%202.38.40%20PM.jpeg)
 
 # Thrid Reporting using SSRS 
 
-![120-121](https://github.com/Ahmedelbermawy/Bank_system_graduation_project/assets/133806022/e4985995-c7a7-4491-86b4-7b7551185c82)
-
-![122-123](https://github.com/Ahmedelbermawy/Bank_system_graduation_project/assets/133806022/99f321b5-35aa-4c55-adbe-b25bc96bc2e4)
+![120-121](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/WhatsApp%20Image%202024-03-14%20at%207.41.25%20PM.jpeg)
 
 # Visualzation 
 # Using Power BI
@@ -229,17 +229,16 @@
 
 # Watch and Try IT at this Link:
 
-https://www.novypro.com/project/baking-system-|-analysis-dashboard
+https://www.novypro.com/project/bank-system
 
-![overview](https://github.com/Ahmedelbermawy/Bank_system_graduation_project/assets/133806022/33ac723b-86e4-442a-9024-c76916a70fc1)
+![overview](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/d1.PNG)
 
 # using Tableau 
 
 # Watch and Try IT at this Link:
 
-https://www.novypro.com/project/loan-customer--hr-employee-dashboard-banking-system-
 
-![ovierview tableau](https://github.com/Ahmedelbermawy/Bank_system_graduation_project/assets/133806022/9bb00c03-8352-487b-b7a6-a2e548dda5c2)
+![ovierview tableau](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/WhatsApp%20Image%202024-03-23%20at%201.31.37%20AM.jpeg)
 
 
 
