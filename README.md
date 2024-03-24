@@ -198,12 +198,18 @@
 
 # Satr OLTP schema
 
-![OLAP_schema](https://github.com/Ahmedelbermawy/Bank_system_graduation_project/assets/133806022/3f65bc83-59bd-496a-876a-409758e80f27)
+![OLAP_schema]([https://github.com/Ahmedelbermawy/Bank_system_graduation_project/assets/133806022/3f65bc83-59bd-496a-876a-409758e80f27](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture.PNG))
 
 # Business Intelligence Using SSIS SSAS SSRS 
 # First Integration using SSIS
 
-![Atm_BranchDims](https://github.com/Ahmedelbermawy/Bank_system_graduation_project/assets/133806022/093af28a-95ce-4455-ab0f-56e5bc0a4b40)
+![Atm_BranchDims]([https://github.com/Ahmedelbermawy/Bank_system_graduation_project/assets/133806022/093af28a-95ce-4455-ab0f-56e5bc0a4b40](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture4.PNG))
+
+![AccountCusomerDims]([[https://github.com/Ahmedelbermawy/Bank_system_graduation_project/assets/133806022/093af28a-95ce-4455-ab0f-56e5bc0a4b40](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture4.PNG)](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture5.PNG))
+
+![TransactionDims]([[[https://github.com/Ahmedelbermawy/Bank_system_graduation_project/assets/133806022/093af28a-95ce-4455-ab0f-56e5bc0a4b40](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture4.PNG)](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture5.PNG)](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture3.PNG))
+
+
 
 # Secound Cube "The cube is Genarlized About Business and Specified for the CEO And CMO Should closely track financial performance, set clear goals, and analyse key metrics to measure profits. they must identify and manage risks by conducting assessments and creating strategies to mitigate potential threats."
 
