@@ -198,16 +198,16 @@
 
 # Satr OLTP schema
 
-![OLAP_schema]([https://github.com/Ahmedelbermawy/Bank_system_graduation_project/assets/133806022/3f65bc83-59bd-496a-876a-409758e80f27](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture.PNG))
+![OLAP_schema](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture.PNG)
 
 # Business Intelligence Using SSIS SSAS SSRS 
 # First Integration using SSIS
 
-![Atm_BranchDims]([https://github.com/Ahmedelbermawy/Bank_system_graduation_project/assets/133806022/093af28a-95ce-4455-ab0f-56e5bc0a4b40](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture4.PNG))
+![Atm_BranchDims](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture4.PNG)
 
-![AccountCusomerDims]([[https://github.com/Ahmedelbermawy/Bank_system_graduation_project/assets/133806022/093af28a-95ce-4455-ab0f-56e5bc0a4b40](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture4.PNG)](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture5.PNG))
+![AccountCusomerDims](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture5.PNG)
 
-![TransactionDims]([[[https://github.com/Ahmedelbermawy/Bank_system_graduation_project/assets/133806022/093af28a-95ce-4455-ab0f-56e5bc0a4b40](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture4.PNG)](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture5.PNG)](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture3.PNG))
+![TransactionDims](https://github.com/MohamedAtef177/Bank-System/blob/main/ScreenShot/Capture3.PNG)
 
 
 
